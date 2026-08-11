@@ -1,0 +1,10 @@
+# Temporary files
+*.tmp
+*.bak
+_*.ps1
+_*
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
