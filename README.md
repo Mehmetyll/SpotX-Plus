@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">SpotX+</h1>
   <p align="center">
-    <strong>A highly streamlined, zero-telemetry Spotify Desktop patcher for Windows.</strong>
+    <strong>A highly streamlined, zero-telemetry Spotify Desktop Ad Blocker for Windows.</strong>
     <br />
     <br />
     <a href="#-quick-installation">Quick Install</a>
